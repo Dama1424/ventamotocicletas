@@ -14,3 +14,8 @@ Aclaraciones :
 # Aproximación Diagrama de Flujo
 
 ![Venta_motocicletas](https://github.com/Dama1424/ventamotocicletas/assets/132960199/a521abaa-7e4d-46fb-9e93-82d883fe6d5c)
+
+# Pseudocódigo
+![Captura1](https://github.com/Dama1424/ventamotocicletas/assets/132960199/5c8a8a26-f230-4f11-8308-7e5ddcb42f2c)
+![Captura2](https://github.com/Dama1424/ventamotocicletas/assets/132960199/b68662e5-c4be-4c07-ad28-f4993504ff45)
+
